@@ -1,2 +1,2 @@
 
-print("hell_world")
+print("这是一个hell_world")
